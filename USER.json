@@ -1,0 +1,20 @@
+[{
+	"name":"Burhanuddin",
+	"address":"godhra",
+	"isProgrammer":true
+},
+{
+	"name":"vishwa",
+	"address":"godhra",
+	"isProgrammer":true
+},
+{
+	"name":"dhruti",
+	"address":"godhra",
+	"isProgrammer":"false"
+},
+{
+	"name":"manish",
+	"address":"baroda",
+	"isProgrammer":"true"
+}]
